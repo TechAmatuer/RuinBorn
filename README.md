@@ -1,10 +1,10 @@
-# Nvida Dreams — RUINBORN test builds
+# RuinBorn — test builds
 
 A medieval survival game: keep your family alive through the winters, dig old knowledge out of the ruins, and pass it on to your children.
 
 ## Download (Mac)
 
-1. Open **Releases** on the right of this page and download the **Nvida Dreams** zip from the newest release.
+1. Open **Releases** on the right of this page and download **RuinBorn.zip** from the newest release.
 2. Double-click the zip to unpack it. Read **How to play.txt** inside.
 
 ## First time you open it
