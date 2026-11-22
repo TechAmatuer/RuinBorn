@@ -4,11 +4,17 @@ A medieval survival game: keep your family alive through the winters, dig old kn
 
 ## Download (Mac)
 
-**Newest test build: playtest 3 (Nov 21, 2026).** [Download RuinBorn-playtest-3.zip](https://github.com/TechAmatuer/RuinBorn/raw/playtest/downloads/RuinBorn-playtest-3.zip) (74 MB, **Apple Silicon Macs only**: M1 and newer).
+**Newest test build: playtest 3b (Nov 21, 2026).** [Download RuinBorn-playtest-3b.zip](https://github.com/TechAmatuer/RuinBorn/raw/playtest/downloads/RuinBorn-playtest-3b.zip) (74 MB, **Apple Silicon Macs only**: M1 and newer).
 
 1. Double-click the zip to unpack it. It contains **RUINBORN.app**.
 2. What to try first: [TESTING.md](TESTING.md).
 3. Older build: [playtest 2](https://github.com/TechAmatuer/RuinBorn/raw/playtest/downloads/RuinBorn-playtest-2.zip) (77 MB, Apple Silicon and Intel).
+
+### New in playtest 3b (same evening)
+- A crash when passing the screen in hot-seat is fixed.
+- Chapel, watchtower, watermill and village props are real models now; windows glow at dusk.
+- A lighting pass: distance haze is back, seasons have their own grade, winter is no longer blinding, glow only on fire and windows.
+- The new features have sounds: letters, the race, season-plan stops, each family's deed.
 
 ### New in playtest 3
 - **Against the computer, in your valley:** 1 to 5 other houses, Easy, Normal or Hard, Friendly, Classic or Cutthroat. A race strip shows every house's Great Work and Renown; answer their offers of trade, alliance and marriage; win by finishing your Great Work first.

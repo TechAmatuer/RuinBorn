@@ -1,6 +1,6 @@
 # Playtest 3: what to try first (Nov 21, 2026)
 
-Build `playtest-3`, commit 182074dd6. Apple Silicon Macs only. About 10 minutes for each step.
+Build `playtest-3b`, commit e1d63900e. (3b fixes a hot-seat crash and adds models, lighting and sounds.) Apple Silicon Macs only. About 10 minutes for each step.
 
 1. **A first game.** New Game, House Ostral, Gentle. Follow the guide past the first Winter Council; it should end by itself after that council. Leave the steward on: your house should not go hungry before the first harvest.
 2. **Season plan.** Options > Game > Time > Season plan (or on the New Game screen). Rank the seasons' needs, look at the forecast, then "Watch the season". Is 1.2 seconds a day the right speed? Does it stop at the right moments?
